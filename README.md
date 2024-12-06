@@ -1,5 +1,12 @@
 # <span style="font-size: 1.2em; font-weight: bold; color: #42b983;">数字玩家</span>
 
+## <span style="font-size: 1em; font-weight: bold; color: #42b983;">基础介绍</span>
+
+> 账号配置 服务器配置 相关基础介绍
+
+- 💰 **[收费模式](收费模式.md)**  
+  收费模式透明清晰
+
 - 💰 **[返佣推荐](返佣推荐.md)**  
   获取更便宜的手续费
 
@@ -14,7 +21,7 @@
 
   
 
-## <span style="font-size: 1em; font-weight: bold; color: #42b983;">套利玩家</span>
+## <span style="font-size: 1em; font-weight: bold; color: #42b983;">套利系统</span>
 
 > 低风险高收益的套利系统
 
